@@ -1,1 +1,1 @@
-# 2023-ml-odyssey
+# 2023 Machine Learning Odyssey
