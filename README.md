@@ -12,5 +12,6 @@
 |  part7  | Structured Query Language (SQL), Support Vector Machine (SVM), Hyperparameter Search (HyperOpt, TPE, Optuna) |
 |  part8  | Final Remark (Transforming Tabular data to Images, Data Ecosystem (Reliable and Safe ML & Responsible MLOps through mathematical lens)), Recent advances in DL for Tabular data (FT-Transformer, TabPFN, Tunetables) |
 
+- Details are available at: https://duneag2.github.io/posts/2014/08/blog-post-3/
 
 
