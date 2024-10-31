@@ -1,5 +1,6 @@
 # 2023 Machine Learning Odyssey
-- This repository stores the content used in a year-long seminar "2023 Machine Learning Odyssey" (though held 2023-2024), led by [Seungeun Lee](https://duneag2.github.io/)
+- This repository stores the content used in a year-long seminar "2023 Machine Learning Odyssey" (though held 2023-2024), led by [Seungeun Lee](https://duneag2.github.io/).
+- These materials may not be perfectly accurate, as they reflect my thoughts on 'tabular data' and 'ML/DL for tabular data'.
 
 |  No.  |  Description  |
 |--------|--------------|
